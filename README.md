@@ -1,7 +1,7 @@
-### Привет! Я - Олег, frontend разработчик! 👋
-💬  Интересуюсь web-разработкой, геймдевом, путешествиями
-desktop_computer PERN stack
-📫 Как связаться: azarov.oleg.job@mail.ru, https://t.me/oleg72pc
+Привет! Я - Олег, frontend разработчик! 👋
+- Интересуюсь web-разработкой, геймдевом, путешествиями
+- PERN stack
+- Как связаться: azarov.oleg.job@mail.ru, https://t.me/oleg72pc
 
 <!--
 **Oleg72pc/oleg72pc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
